@@ -4,6 +4,7 @@
 
 # Identificación de sensores utilizados en robótica educativa mediante aprendizaje automático
 Javier Berger(1,2); Solange Schelske(1,2)
+
 1 Escuela de Robótica Misiones
 Av. Roca 480, Posadas (3300), Misiones, Argentina
 2 Doctorando en Informática, Facultad de Ciencias Exactas, Químicas y Naturales. Universidad Nacional de Misiones. Félix de Azara 1552, Posadas (3300), Misiones, Argentina
