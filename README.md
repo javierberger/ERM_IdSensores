@@ -1,8 +1,8 @@
-## Identificación de sensores - Escuela de Robótica Misiones
+### Identificación de sensores - Escuela de Robótica Misiones
 
-# Trabajo publicado en Libro de actas : II Jornadas argentinas de didáctica de las Ciencias de la Computación 2022
+## Trabajo publicado en Libro de actas : II Jornadas argentinas de didáctica de las Ciencias de la Computación 2022
 
-Identificación de sensores utilizados en robótica educativa mediante aprendizaje automático
+#Identificación de sensores utilizados en robótica educativa mediante aprendizaje automático
 Javier Berger(1,2); Solange Schelske(1,2)
 1 Escuela de Robótica Misiones
 Av. Roca 480, Posadas (3300), Misiones, Argentina
